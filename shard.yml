@@ -6,9 +6,9 @@ authors:
 
 dependencies:
   cltk:
-    github: ziprandom/cltk
-    branch: master
+    github: ragmaanir/cltk
+    branch: 181226_crystal_27
 
-crystal: 0.25.0
+crystal: 0.27.0
 
 license: MIT
